@@ -42,17 +42,6 @@ Welcome to the ultimate guide for setting up and optimizing your NVIDIA Jetson N
 
 ---
 
-## 🖥️ System Requirements
-
-- Jetson Nano Developer Kit
-- microSD card (32GB UHS-1 minimum recommended)
-- USB keyboard and mouse
-- HDMI display
-- 5V 4A power supply (recommended)
-- Internet access (WiFi dongle or Ethernet)
-
----
-
 ## 💽 Installing the OS
 
 1. Download Jetson Nano SD card image from: [https://developer.nvidia.com/embedded/downloads](https://developer.nvidia.com/embedded/downloads)
