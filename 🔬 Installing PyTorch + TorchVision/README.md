@@ -63,17 +63,17 @@ pip3 install numpy torch-1.8.0-cp36-cp36m-linux_aarch64.whl
 Follow these steps to install TorchVision from source on your Jetson device. Be sure to select the correct version of TorchVision compatible with your installed PyTorch version.
 
 ## Step 01: Select the version of torchvision to download depending on the version of PyTorch that you have installed:
-PyTorch v1.0 - torchvision v0.2.2
-PyTorch v1.1 - torchvision v0.3.0
-PyTorch v1.2 - torchvision v0.4.0
-PyTorch v1.3 - torchvision v0.4.2
-PyTorch v1.4 - torchvision v0.5.0
-PyTorch v1.5 - torchvision v0.6.0
-PyTorch v1.6 - torchvision v0.7.0
-PyTorch v1.7 - torchvision v0.8.1
-PyTorch v1.8 - torchvision v0.9.0
-PyTorch v1.9 - torchvision v0.10.0
-PyTorch v1.10 - torchvision v0.11.1
+>>> PyTorch v1.0 - torchvision v0.2.2
+>>> PyTorch v1.1 - torchvision v0.3.0
+>>> PyTorch v1.2 - torchvision v0.4.0
+>>> PyTorch v1.3 - torchvision v0.4.2
+>>> PyTorch v1.4 - torchvision v0.5.0
+>>> PyTorch v1.5 - torchvision v0.6.0
+>>> PyTorch v1.6 - torchvision v0.7.0
+>>> PyTorch v1.7 - torchvision v0.8.1
+>>> PyTorch v1.8 - torchvision v0.9.0
+>>> PyTorch v1.9 - torchvision v0.10.0
+>>> PyTorch v1.10 - torchvision v0.11.1
 
 ## 🛠 Step 1: Install Required System Dependencies
 Install the required libraries and development packages.
