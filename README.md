@@ -1,26 +1,7 @@
 # 🚀 Jetson Nano Setup and Development Guide
 
-A complete resource for getting started and working with NVIDIA Jetson Nano — covering everything from OS installation to CUDA setup and deep learning framework integration.
-
----
-
-## 📚 Table of Contents
-
-1. [Install Operating System on Jetson Nano](./docs/Install_OS.md)
-2. [Reflash Jetson Nano OS using NVIDIA SDK Manager](./docs/Reflash_OS_SDKManager.md)
-3. [Change Boot Order in Jetson Nano](./docs/Change_Boot_Order.md)
-4. [Enable CUDA and cuDNN on Jetson Nano](./docs/Enable_CUDA_cuDNN.md)
-5. [Install PyTorch & TorchVision with CUDA Support](./docs/PyTorch_TorchVision_CUDA.md)
-6. [Jetson Nano Useful Commands & Scripts](./docs/JetsonNano_Commands.md)
-7. [Jetson Nano Troubleshooting Guide](./docs/Troubleshooting.md)
-8. [Jetson Nano Performance Optimization](./docs/Performance_Optimization.md)
-9. [Jetson Nano Projects and Examples](./docs/Projects_and_Examples.md)
-
-
-# Jetson Nano Complete Setup Guide
-
 Welcome to the ultimate guide for setting up and optimizing your NVIDIA Jetson Nano. This guide will walk you through everything from installing the OS to enabling CUDA, changing the boot order, and installing essential AI libraries like PyTorch, OpenCV, and TensorRT.
-
+A complete resource for getting started and working with NVIDIA Jetson Nano — covering everything from OS installation to CUDA setup and deep learning framework integration.
 ---
 
 ## 📋 Table of Contents
