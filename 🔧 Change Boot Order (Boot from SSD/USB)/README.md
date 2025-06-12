@@ -1,4 +1,4 @@
-````markdown
+
 # How to Format the SD Card as ext4
 
 In this guide, we’ll walk you through moving your Jetson module’s root filesystem from eMMC to an SD card, mounting it directly at boot for faster startup times. This approach improves on the previous method (see [old blog post](https://www.forecr.io/blogs/bsp-development/changing-storage-of-the-root-file-system-emmc-to-sdmmc)) by eliminating the post-mount service delay. 
