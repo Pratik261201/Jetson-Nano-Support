@@ -3,25 +3,23 @@
 Welcome to the ultimate guide for setting up and optimizing your NVIDIA Jetson Nano. This guide will walk you through everything from installing the OS to enabling CUDA, changing the boot order, and installing essential AI libraries like PyTorch, OpenCV, and TensorRT.
 A complete resource for getting started and working with NVIDIA Jetson Nano — covering everything from OS installation to CUDA setup and deep learning framework integration.
 ---
-
 ## 📋 Table of Contents
 
-1. [System Requirements](#system-requirements)
-2. [Installing the OS](#installing-the-os)
-3. [Reflashing with NVIDIA SDK Manager](#reflashing-with-nvidia-sdk-manager)
-4. [First Boot Setup](#first-boot-setup)
-5. [Enable CUDA & cuDNN](#enable-cuda--cudnn)
-6. [Installing OpenCV](#installing-opencv)
-7. [Installing PyTorch & TorchVision](#installing-pytorch--torchvision)
-8. [Installing TensorRT](#installing-tensorrt)
-9. [Changing Boot Order](#changing-boot-order)
-10. [Python & Pip Setup](#python--pip-setup)
-11. [Remote Access Setup](#remote-access-setup)
-12. [Expand SWAP Memory](#expand-swap-memory)
-13. [Enable GPIO Features](#enable-gpio-features)
-14. [Useful Resources](#useful-resources)
+1. [System Requirements](./System-Requirements/)  
+2. [Installing the OS](./Installing-the-OS/)  
+3. [Reflashing with NVIDIA SDK Manager](./Reflash-SDK-Manager/)  
+4. [First Boot Setup](./First-Boot-Setup/)  
+5. [Enable CUDA & cuDNN](./Enable-CUDA-cuDNN/)  
+6. [Installing OpenCV](./Install-OpenCV/)  
+7. [Installing PyTorch & TorchVision](./Install-PyTorch-TorchVision/)  
+8. [Installing TensorRT](./Install-TensorRT/)  
+9. [Changing Boot Order](./Change-Boot-Order/)  
+10. [Python & Pip Setup](./Python-Pip-Setup/)  
+11. [Remote Access Setup](./Remote-Access-Setup/)  
+12. [Expand SWAP Memory](./Expand-SWAP-Memory/)  
+13. [Enable GPIO Features](./Enable-GPIO-Features/)  
+14. [Useful Resources](./Useful-Resources/)
 
----
 
 ## 🔁 Reflashing with NVIDIA SDK Manager
 
