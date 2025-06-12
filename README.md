@@ -10,7 +10,7 @@ A complete resource for getting started and working with NVIDIA Jetson Nano — 
 3. [Reflashing with NVIDIA SDK Manager](./Reflash-SDK-Manager/)  
 4. [First Boot Setup](./First-Boot-Setup/)  
 5. [Enable CUDA & cuDNN](./Enable-CUDA-cuDNN/)  
-6. [Installing OpenCV](./Install-OpenCV/)  
+6. [Installing -OpenCV-With-Cuda-Support](./Install-OpenCV-With-Cuda-Support/)  
 7. [Installing PyTorch & TorchVision](./Install-PyTorch-TorchVision/)  
 8. [Installing TensorRT](./Install-TensorRT/)  
 9. [Changing Boot Order](./Change-Boot-Order/)  
