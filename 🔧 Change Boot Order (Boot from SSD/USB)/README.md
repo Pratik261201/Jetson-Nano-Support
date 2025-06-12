@@ -3,7 +3,7 @@
 
 In this guide, we’ll walk you through moving your Jetson module’s root filesystem from eMMC to an SD card, mounting it directly at boot for faster startup times. This approach improves on the previous method (see [old blog post](https://www.forecr.io/blogs/bsp-development/changing-storage-of-the-root-file-system-emmc-to-sdmmc)) by eliminating the post-mount service delay. 
 
-> **Warning:** After changing your root filesystem, your Jetson will not boot without the SD card unless you update `extlinux.conf`. We strongly recommend backing up your module before proceeding.
+**The advantage of this version is the boot up speed. In the previous version, the file system into the SD card mounted with a service after the file system into the eMMC mounted. This process increases the boot up time. In this post, the file system into the SD card mounted directly without any service. On the other hand, the Jetson module won’t boot up without SD card until the extlinux.conf file changed. To avoid this problem, you can backup your Jetson module before changing the root file system.**
 
 ---
 
