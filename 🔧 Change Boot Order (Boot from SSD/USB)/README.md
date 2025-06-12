@@ -14,6 +14,8 @@ In this guide, we’ll walk you through moving your Jetson module’s root files
 3. Ethernet, HDMI, keyboard & mouse connected  
 4. Basic familiarity with Linux command line  
 
+
+First, connect your SD card to SD card slot and connect the basic interfaces (Ethernet, HDMI, keyboard, mouse) then power on. 
 Power on your Jetson and open a terminal.
 
 ---
