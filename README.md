@@ -5,8 +5,8 @@ A complete resource for getting started and working with NVIDIA Jetson Nano — 
 ---
 ## 📋 Table of Contents
 
-1. [System Requirements](./System Requirements/)  
-2. [Installing the OS](./Installing the OS/)  
+1. [System Requirements](./System-Requirements/)  
+2. [Installing the OS](./Installing-the-OS/)  
 3. [Reflashing with NVIDIA SDK Manager](./Reflash-SDK-Manager/)  
 4. [First Boot Setup](./First-Boot-Setup/)  
 5. [Enable CUDA & cuDNN](./Enable-CUDA-cuDNN/)  
